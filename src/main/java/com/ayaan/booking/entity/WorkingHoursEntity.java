@@ -15,7 +15,7 @@ import java.time.LocalTime;
 
 @Entity
 @Table(name = "working_hours")
-public class WorkingHoursEntity extends com.ayaan.booking.entity.BaseEntity {
+public class WorkingHoursEntity extends BaseEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

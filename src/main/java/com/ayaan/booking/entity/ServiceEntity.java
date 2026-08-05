@@ -20,7 +20,7 @@ import java.math.BigDecimal;
                 )
         }
 )
-public class ServiceEntity extends com.ayaan.booking.entity.BaseEntity {
+public class ServiceEntity extends BaseEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

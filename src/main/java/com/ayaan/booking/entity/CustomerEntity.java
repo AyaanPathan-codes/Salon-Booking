@@ -20,7 +20,7 @@ import lombok.Setter;
                 )
         }
 )
-public class CustomerEntity extends com.ayaan.booking.entity.BaseEntity {
+public class CustomerEntity extends BaseEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
