@@ -14,3 +14,9 @@ spring:
 
   flyway:
     enabled: true
+    locations: classpath:db/migration
+
+  logging:
+    level:
+      org.springframework.web: INFO
+      org.hibernate.SQL: DEBUG
