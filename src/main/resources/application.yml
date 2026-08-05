@@ -1,1 +1,16 @@
-spring.application.name=Booking
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/salon_booking
+    username: postgres
+    password: s@yaanPathan10
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+    properties:
+      hibernate:
+        format_sql: true
+
+  flyway:
+    enabled: true
