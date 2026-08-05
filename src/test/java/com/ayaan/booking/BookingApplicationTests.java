@@ -1,4 +1,4 @@
-package com.ayaan.Booking;
+package com.ayaan.booking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

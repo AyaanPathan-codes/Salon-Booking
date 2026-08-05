@@ -1,4 +1,4 @@
-package com.ayaan.Booking.Enums;
+package com.ayaan.booking.enums;
 
 public enum DaysOfWeek {
 

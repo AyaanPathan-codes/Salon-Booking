@@ -1,4 +1,4 @@
-package com.ayaan.Booking.Dto.service;
+package com.ayaan.booking.dto.service;
 
 import jakarta.validation.constraints.*;
 import lombok.Getter;

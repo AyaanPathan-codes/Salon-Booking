@@ -1,6 +1,6 @@
-package com.ayaan.Booking.Entity;
+package com.ayaan.booking.entity;
 
-import com.ayaan.Booking.Enums.DaysOfWeek;
+import com.ayaan.booking.enums.DaysOfWeek;
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Getter;

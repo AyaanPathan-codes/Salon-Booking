@@ -1,4 +1,4 @@
-package com.ayaan.Booking.Entity;
+package com.ayaan.booking.entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;
